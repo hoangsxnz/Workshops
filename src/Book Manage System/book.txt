@@ -1,0 +1,4 @@
+123 literature 2 150
+124 biology 5 175
+125 mathematics 1 200
+126 linguistic 10 100
